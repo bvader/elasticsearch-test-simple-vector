@@ -1,1 +1,1 @@
-# elasticsearch-test-simple.vector
+# elasticsearch-test-simple-vector
